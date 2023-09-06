@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
@@ -170,3 +171,14 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ---
 
 ![](assets/Bottom_down.svg)
+=======
+- 👋 Hi, I’m @Mgrsc
+- 👀 I’m interested in duck and bubi
+- 🌱 I’m currently learning container kubernetes Cloud compute
+- 📫 How to reach me mgrsc.github.io
+
+<!---
+Mgrsc/Mgrsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+>>>>>>> a36e7001cfe80f4da7e09372def92c90d59de5aa
