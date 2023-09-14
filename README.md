@@ -10,7 +10,7 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Welcome+to+the+Mgrsc+repository.%F0%9F%91%8B)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Welcome+to+the+Mgrsc+repository.%F0%9F%91%8B)
 
 
 <!--   my-skils -->
